@@ -1,0 +1,4 @@
+ALPHA	0
+FIVE	3
+CHARZ	6
+C1	7

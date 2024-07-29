@@ -1,0 +1,6 @@
+start   MOV R16, #0x42
+loop    INC R16
+        NOP
+        CPI R16, #0x4F
+        BRNE loop
+end     HLT
